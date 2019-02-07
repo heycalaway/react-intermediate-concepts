@@ -30,15 +30,10 @@
     "eslint-plugin-import": "^2.13.0",
     "eslint-plugin-jsx-a11y": "^6.1.1",
     "eslint-plugin-react": "^7.10.0",
-<<<<<<< HEAD
     "jest": "^24.1.0",
     "parcel-bundler": "^1.11.0",
     "prettier": "^1.14.2",
     "react-test-renderer": "^16.8.1"
-=======
-    "parcel-bundler": "^1.11.0",
-    "prettier": "^1.14.2"
->>>>>>> a0135cd15157b0a0697a1e403e8dc120404df08f
   },
   "dependencies": {
     "@reach/router": "^1.1.1",

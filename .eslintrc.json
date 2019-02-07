@@ -24,11 +24,7 @@
   "env": {
     "es6": true,
     "browser": true,
-<<<<<<< HEAD
     "node": true,
     "jest": true
-=======
-    "node": true
->>>>>>> a0135cd15157b0a0697a1e403e8dc120404df08f
   }
 }
