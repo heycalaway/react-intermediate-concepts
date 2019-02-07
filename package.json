@@ -38,10 +38,14 @@
     "prettier": "^1.14.2"
   },
   "dependencies": {
+    "@emotion/core": "^10.0.7",
+    "@emotion/styled": "^10.0.7",
     "@reach/router": "^1.1.1",
+    "emotion": "^10.0.7",
     "petfinder-client": "^0.0.3",
-    "react": "^16.4.2",
+    "react": "^16.8.1",
     "react-dom": "^16.4.2",
+    "react-emotion": "^10.0.0",
     "react-test-renderer": "^16.4.2"
   }
 }
